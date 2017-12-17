@@ -1,0 +1,7 @@
+Random Date Generator 
+     a. univariate gaussian data generator 
+          INPUT: expectation value (m), variance (s)
+          OUTPUT: one outcome ~ N(m, s)
+          HINT: https://en.wikipedia.org/wiki/Normal_distribution#Generating_values_from_normal_distribution
+          NOTE: you have to handcraft your generator based on one of the approaches given in the hint.
+
